@@ -1,5 +1,5 @@
-# ringcode
-ringcode is a freshely designed annular barcode system implemented in Processing. It is still under development.
+# Ringcode
+Ringcode is a freshely designed annular barcode system implemented in Processing. It is still under development.
 
 ![](http://github.com/zyanglken/ringcode/raw/master/images/demo1.png)
 
